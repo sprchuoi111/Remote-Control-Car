@@ -1,5 +1,6 @@
 # Remote-Control-Car
 Remote-Control-Car with Arduino
+
 **---------Description--------------**
 Project with aduino uno R3 - control car by phone via HC-05 bluetooh 
 
@@ -8,6 +9,7 @@ Project with aduino uno R3 - control car by phone via HC-05 bluetooh
 
 
 ------- Author------------
+
 Nguyen Quang Binh 
 
 **-------- Download ---------------**
